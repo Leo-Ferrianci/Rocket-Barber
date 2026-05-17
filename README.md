@@ -1,7 +1,5 @@
 # 🚀 Rocket Barber - Sistema de Agendamento e Fidelização
 
-![Capa do Projeto](https://via.placeholder.com/1200x400/111111/D4AF37?text=Rocket+Barber+-+Low-Code+%2B+Custom+JS)
-
 > **Projeto Académico:** Desenvolvimento de uma aplicação web funcional para pequenos negócios (Barbearia), unindo o poder de plataformas Low-Code (Softr + Airtable) com injeção de código customizado (HTML, CSS, JS) para regras de negócio e gamificação.
 
 ---
